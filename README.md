@@ -1,2 +1,2 @@
 # virtual-desktop-enhancer
-Same virtual desktop enhancer, but works with newest builds on Windows 10.
+##Virtual Desktop Enhancer enhanced to work with 2019 Windows 10 build 18936++.
